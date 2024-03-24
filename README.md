@@ -1,4 +1,5 @@
 # Netflix-Data-Analysis 📊🍿
+<img src="https://media.licdn.com/dms/image/D5612AQGLacT3QKsHPg/article-cover_image-shrink_720_1280/0/1690286920082?e=2147483647&v=beta&t=bad0wjf-VhyixysnJHvERy1EogKFSebnEnJ5TcWZY_A" width=600>
 
 ## Introduction 🎬
 
